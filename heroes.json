@@ -1,0 +1,394 @@
+{
+  "heroes": [
+    {
+      "name": "Genji",
+      "gem": 750,
+      "gold": 15000,
+      "discount": 0
+    },
+    {
+      "name": "Cassia",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Probius",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Lucio",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Valeera",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Zul'jin",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Ragnaros",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Varian",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 50
+    },
+    {
+      "name": "Samuro",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Zarya",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Alarak",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Auriel",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Gul'dan",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Medivh",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Chromie",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Tracer",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Dehaka",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Xul",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Li-Ming",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Greymane",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Lunara",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Cho'gall",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Artanis",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Lt. Morales",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Rexxar",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Kharazim",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Leoric",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "The Butcher",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Johanna",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Kael'thas",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Sylvanas",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "The Lost Vikings",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Thrall",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Jaina",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Anub'arak",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Azmodan",
+      "gem": 300,
+      "gold": 2000,
+      "discount": 0
+    },
+    {
+      "name": "Chen",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Rehgar",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Zagara",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Murky",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Brightwing",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Li Li",
+      "gem": 300,
+      "gold": 2000,
+      "discount": 0
+    },
+    {
+      "name": "Tychus",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Abathur",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    },
+    {
+      "name": "Arthas",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Diablo",
+      "gem": 300,
+      "gold": 2000,
+      "discount": 0
+    },
+    {
+      "name": "E.T.C.",
+      "gem": 300,
+      "gold": 2000,
+      "discount": 0
+    },
+    {
+      "name": "Falstad",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Gazlowe",
+      "gem": 300,
+      "gold": 2000,
+      "discount": 0
+    },
+    {
+      "name": "Illidan",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Kerrigan",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Malfurion",
+      "gem": 300,
+      "gold": 2000,
+      "discount": 0
+    },
+    {
+      "name": "Muradin",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Nazeebo",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Nova",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Raynor",
+      "gem": 300,
+      "gold": 2000,
+      "discount": 0
+    },
+    {
+      "name": "Sgt. Hammer",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Sonya",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Stitches",
+      "gem": 625,
+      "gold": 7000,
+      "discount": 0
+    },
+    {
+      "name": "Tassadar",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Tyrael",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 50
+    },
+    {
+      "name": "Tyrande",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Uther",
+      "gem": 500,
+      "gold": 4000,
+      "discount": 0
+    },
+    {
+      "name": "Valla",
+      "gem": 300,
+      "gold": 2000,
+      "discount": 0
+    },
+    {
+      "name": "Zeratul",
+      "gem": 750,
+      "gold": 10000,
+      "discount": 0
+    }
+  ]
+}
